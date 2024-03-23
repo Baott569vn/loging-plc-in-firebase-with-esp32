@@ -1,0 +1,106 @@
+.log
+
+NOTE MOTOR
+@@@@@@@@@@@@@@@@@@@@@@@@BGGGG#@BGGGB&@@@
+@@@@@@@@@@@@@@GGGGGGGBB&@BPP&@@#PB@@@@@@
+@@@&&&&&&&&&&@@GPP&@@GPP&#PP@@BP&@@@@@@@
+@@&PG#BPPB&GP&@BPG@@@#PP##PGBGPP#@@@@@@@
+@@B#@@&PP&@@&B@BPG#&BPPG@#PP#@&PP#@@@@@@
+@@@@@@&PP#@@@@@BPG#&&&@@@#PP@@@#PP#@@@@@
+@@@@@@&PP#@@@@@BPG@@@@@@&GPP#@@&GPPB&@@@
+@@@@@@&PP#@@@@&PPP&@@@@@#####&@######@@@
+@@@@@@&PP#@@@@#####@@@@@@@@@@@@@@@@@@@@@
+@@@@@BGGGGB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+DATE_2024-03-18 TIME:_23:39:44.585|P0001|1.0|NORMAL                 |  |thi is status lamp|
+DATE_2024-03-18 TIME:_23:39:45.283|P0001|1.0|NORMAL                 |  |thi is status lamp|
+DATE_2024-03-18 TIME:_23:39:45.702|P0001|1.0|NORMAL                 |  |thi is status lamp|
+DATE_2024-03-18 TIME:_23:39:46.101|P0001|1.0|NORMAL                 |  |thi is status lamp|
+DATE_2024-03-18 TIME:_23:39:46.300|P0001|1.0|NORMAL                 |  |thi is status lamp|
+DATE_2024-03-18 TIME:_23:39:46.700|P0001|1.0|NORMAL                 |  |thi is status lamp|
+DATE_2024-03-18 TIME:_23:39:47.398|P0002|1.0|NORMAL                 |  |thi is status motor|
+DATE_2024-03-18 TIME:_23:39:48.297|P0002|0.0|NORMAL                 |  |thi is status motor|
+DATE_2024-03-18 TIME:_23:39:49.314|P0003|9.688581|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:49.415|P0003|11.525424|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:49.515|P0003|15.916955|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:49.614|P0003|29.83051|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:49.714|P0003|49.13495|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:49.814|P0003|63.72882|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:49.914|P0003|47.05883|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:50.013|P0003|31.86441|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:50.113|P0003|39.44637|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:50.213|P0003|56.27119|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:50.313|P0003|53.97924|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:50.412|P0003|35.25424|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:50.512|P0003|36.6782|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:50.612|P0003|58.98305|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:50.711|P0003|42.21454|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:50.911|P0003|47.45763|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:51.011|P0003|46.36679|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:51.110|P0003|50.16949|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:51.210|P0003|53.2872|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:51.310|P0003|54.91526|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:51.410|P0003|58.82353|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:51.509|P0003|63.05085|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:51.609|P0003|74.04845|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:51.709|P0003|82.0339|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:51.809|P0003|62.28374|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:51.928|P0003|58.98305|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:52.028|P0003|74.04845|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:52.128|P0003|72.54238|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:52.227|P0003|71.97232|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:52.327|P0003|80.67797|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:52.427|P0003|69.8962|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:52.527|P0003|69.15254|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:52.626|P0003|79.58478|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:52.726|P0003|76.61017|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:52.826|P0003|83.73702|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:52.926|P0003|75.93221|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:53.025|P0003|89.9654|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:53.125|P0003|88.81356|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:53.225|P0003|81.6609|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:53.325|P0003|102.37288|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:53.424|P0003|96.19377|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:53.524|P0003|94.23729|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:53.625|P0003|93.42561|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:53.724|P0003|96.27119|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:39:53.824|P0003|100.34602|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:09.612|P0003|98.96194|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:09.712|P0003|35.25424|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:09.811|P0003|24.9135|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:09.911|P0003|84.74577|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:10.011|P0003|110.0346|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:10.210|P0003|59.51557|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:10.310|P0003|143.0508|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:10.410|P0003|62.28374|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:10.510|P0003|64.40678|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:10.609|P0003|200.0|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:10.709|P0003|36.61017|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:10.809|P0003|110.0346|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:10.908|P0003|200.0|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:11.008|P0003|105.76271|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:11.108|P0003|170.2422|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:11.208|P0003|170.8475|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:11.307|P0003|62.28374|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:11.407|P0003|200.0|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:11.527|P0003|92.73357|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:11.627|P0003|123.38983|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:11.726|P0003|188.9273|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:11.826|P0003|13.559322|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:11.926|P0003|159.8616|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:12.025|P0003|56.27119|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:12.125|P0003|56.74741|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:12.225|P0003|200.0|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:12.325|P0003|11.764706|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:12.424|P0003|98.30508|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:12.524|P0003|93.42561|ERROR                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:12.624|P0003|0.0|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:12.724|P0003|174.3945|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:12.823|P0003|0.0|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:13.023|P0003|137.6271|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:13.123|P0003|0.0|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:13.222|P0003|25.08475|NORMAL                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:13.322|P0003|23.52941|ERROR                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:13.323|P0003|23.52941|ERROR                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:13.457|P0003|23.52941|ERROR                 |  |thi is value  motor|
+DATE_2024-03-18 TIME:_23:40:13.324|P0003|23.65341|ERROR                 |  |thi is value  motor|
